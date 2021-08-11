@@ -60,7 +60,7 @@ ps:强烈建议到AI Studion中进行项目体验
 -|-
 昵称|Zero Rains
 学校|桂林电子科技大学
-年级|本科二年级
+学历|本科二年级
 研究方向|主攻深度学习的计算机视觉方向，做过图像分类，目标检测，语义分割和实例分割等任务
 github主页|[https://github.com/zeroRains](https://github.com/zeroRains)
 个人博客|[https://blog.zerorains.top](https://blog.zerorains.top)
