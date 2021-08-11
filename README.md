@@ -6,9 +6,7 @@
 
 AI Studio项目连接：[https://aistudio.baidu.com/aistudio/projectdetail/2235186?shared=1](https://aistudio.baidu.com/aistudio/projectdetail/2235186?shared=1)
 
-数据集：[Pears]()
-
-预训练模型：[PPYOLO]()
+数据集与预训练模型请自行到AI Studio项目中进行下载
 
 ps:强烈建议到AI Studion中进行项目体验
 
